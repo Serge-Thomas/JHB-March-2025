@@ -1,0 +1,3 @@
+My name is Serge.
+This is a lesson on VsCode.
+print()
